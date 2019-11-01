@@ -1,6 +1,6 @@
 # Elearning
 
-This is a elearning webapp written in php with the laravel framework. I started this project as a learning experience and to test out new things.
+This is an Online-student-test written in php with the laravel framework. I started this project as a learning experience and to test out new things.
 
 ## Documentation
 
@@ -14,4 +14,4 @@ The laravel version is 5.3.
 
 ## License
 
-This project is licensed under the [MIT license](http://opensource.org/licenses/MIT).
+This project is licensed under the [MIT license](http://opensource.org/licenses/MIT) and Enjoy.
